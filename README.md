@@ -22,13 +22,13 @@ This python script is designed to automate the extraction of job descriptions fr
 ## Snippets
 
 ### Ip Excel File
-![Input Excel File](assets/sc1.png)  
+![Input Excel File](assets/sc2.png)  
 The input file contains two columns: `Location` and `URL`. Each row represents a location and its corresponding job listing URL to be scraped.
 
 ---
 
 ### Terminal After Execution
-![Terminal After Execution](assets/sc2.png)  
+![Terminal After Execution](assets/sc1.png)  
 The terminal displays the progress of the scraping process and a summary of the jobs extracted for each location.
 
 ---
